@@ -65,6 +65,7 @@ h2{
 .about-me{
     display: flex;
     background-image: url(images/bg.png);
+    background-repeat: no-repeat;
     margin-bottom: 60px;
 }
 .recipes{
@@ -73,7 +74,7 @@ h2{
 .flexible{
     display: flex;
     width: 100%;
-    margin-bottom: 60px;
+    margin-bottom: 100px;
 }
 .half-width-two{
     width:30%;
@@ -150,4 +151,42 @@ h2{
     color: rgb(168, 158, 158);
     text-align: center;
     padding-bottom: 80px;
+}
+.contact{
+    background-image: url(images/contact.jpg);
+    background-repeat: no-repeat;
+    overflow: auto;
+    
+    margin-left: 400px;
+    padding-left: 5px;
+    border: 1px solid rgb(49, 44, 44);
+    text-align:center;
+    border-radius: 10px;
+    
+    box-shadow: 10px 10px rgb(204, 193, 193);
+    width: 40%;
+    margin-bottom: 60px;
+    color:rgb(116, 111, 103)
+    
+}
+#boxtext{
+    padding: 50px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+#submit{
+    font-size: 15px;
+    color: white;
+    background-color: rgb(116, 111, 103);
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin-left: 230px;
+    display: block;
+    text-align: center;
+    margin-bottom: 5px;
+}
+h4{
+    margin: 10px;
+    font-size: 30px;
+    color: rgb(116, 111, 103);
 }
