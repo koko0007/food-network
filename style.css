@@ -156,9 +156,7 @@ h2{
     background-image: url(images/contact.jpg);
     background-repeat: no-repeat;
     overflow: auto;
-    
-    margin-left: 400px;
-    padding-left: 5px;
+    margin: auto;
     border: 1px solid rgb(49, 44, 44);
     text-align:center;
     border-radius: 10px;
@@ -180,7 +178,7 @@ h2{
     background-color: rgb(116, 111, 103);
     border-radius: 5px;
     padding: 5px 10px;
-    margin-left: 230px;
+    margin: auto;
     display: block;
     text-align: center;
     margin-bottom: 5px;
