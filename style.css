@@ -1,0 +1,128 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+   
+
+}
+.orange{
+    color: rgb(199, 130, 2);
+}
+.yummy{
+    display: flex;
+    width: 100%;
+    margin-bottom: 60px;
+    
+}
+.half-width{
+    width: 50%;
+    padding-top: 50px;
+}
+h1{
+    margin-top: 0%;
+    color: rgb(85, 79, 79);
+    font-size: 60px;
+    padding: 120px 40px 0 40px;
+    margin-left: 20px;
+}
+h2{
+    margin-top: 0%;
+    color: rgb(85, 79, 79);
+    font-size: 40px;
+    padding-top: 120px;
+    padding-bottom: 0;
+    padding-right: 80px;
+    padding-left:40px;
+    
+    margin-left: 20px;
+}
+.para{
+    color: rgb(85, 79, 79);
+    font-size: 20px;
+    padding: 0px 40px 10px 40px;
+    margin-bottom: 50px;
+    margin-left: 20px;
+    padding-right: 80px;
+}
+.img1{
+    width: 90%;
+}
+.img2{
+    width: 50%;
+    padding-left: 180px;
+}
+
+.btn{
+    color: rgb(255, 251, 251);
+    text-decoration: none;
+    padding: 20px 40px;
+    background-image: linear-gradient(rgb(223, 166, 11),rgb(128, 36, 0));
+    border-radius: 30px;
+    font-size: large;
+    margin-left: 60px;
+    
+}
+.about-me{
+    display: flex;
+    background-image: url(images/bg.png);
+    margin-bottom: 60px;
+}
+.recipes{
+    width: 100%;
+}
+.flexible{
+    display: flex;
+    width: 100%;
+    margin-bottom: 60px;
+}
+.half-width-two{
+    width:30%;
+    border: 1px solid white;
+    text-align: center;
+    border-radius: 30px;
+    box-shadow: 10px 10px 40px gray;
+  
+}
+
+#myrcp{
+    font-size: 1cm;
+    text-align: center;
+    color:rgb(85, 79, 79);
+}
+#pararcp{
+    color: rgb(85, 79, 79);
+    font-size: 20px;
+    text-align: center;
+    padding-right: 400px;
+    padding-left: 400px;
+    padding-bottom: 20px;
+    
+}
+.foodimg{
+    width:90%;
+
+    padding: 15px 10px;
+    margin: 0;
+}
+.h3{
+    text-align: left;
+    margin: 15px;
+    font-size: 25px;
+    
+}
+.lastp{
+    line-height: 35px;
+    text-align: left;
+    padding-left: 15px;
+    font-weight:500;
+    padding-right: 15px;
+}
+#box1{
+    margin-left: 90px;
+}
+#box2{
+    margin-left: 45px;
+}
+#box3{
+    margin-left: 45px;
+    margin-right: 90px;
+}
